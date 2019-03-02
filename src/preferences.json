@@ -1,0 +1,8 @@
+{
+    "color_background": [238, 232, 213],
+    "color_text": [7, 54, 66],
+    "text_font_size": 12,
+    "text_line_spacing": 1.5,
+    "text_font": ["'Courier New'", "Courier", "monospace"],
+    "text_break_by_word": true
+}
